@@ -20,10 +20,4 @@
             android:icon="@mipmap/ic_camera_enhance_white_24dp"/>
               <!--android:showAsAction="always"-->
 
-         <item android:id="@+id/action_send"
-            android:title="menu_send_label"
-            android:orderInCategory="100"
-            app:showAsAction="always"
-             android:visible="false"/>
-
 </menu>
