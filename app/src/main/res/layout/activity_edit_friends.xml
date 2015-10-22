@@ -13,19 +13,8 @@
     <ListView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/edit_friends_listview"
+        android:id="@android:id/list"
         android:layout_alignParentTop="true"
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true"/>
-
-    <TextView
-        android:id="@+id/edit_friends_empty"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/menu_edit_friends_label"/>
-
 </RelativeLayout>
-
-
-
-    <!--android:id="@android:id/list"-->
